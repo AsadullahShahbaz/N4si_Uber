@@ -2,7 +2,7 @@
 ### Documentation for Uber Ride Simulation (C++ OOP Project)
 
 #### **Overview**
-This assignment simulates a simple Uber-like trip-hailing device the use of item-orientated programming (OOP) in C++. It consists of functions including person registration, login, wallet management, trip reserving, and feedback. The gadget permits a consumer to both join up or log in, pick out a pickup and drop location, pick out a vehicle, and get information of the trip, consisting of value and available drivers. Finally, it enables customers to depart comments for his or her ride.
+This Project simulates a simple Uber-like trip-hailing device the use of item-orientated programming (OOP) in C++. It consists of functions including person registration, login, wallet management, trip reserving, and feedback. The gadget permits a consumer to both join up or log in, pick out a pickup and drop location, pick out a vehicle, and get information of the trip, consisting of value and available drivers. Finally, it enables customers to depart comments for his or her ride.
 
 #### **Classes**
 
